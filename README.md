@@ -6,10 +6,10 @@ This repository contains the SQL scripts used to analyze the performance of prom
 # Introduction 
 Promotional campaigns play a crucial role in the retail industry, driving sales and attracting customers during festive seasons. This project aims to analyze the performance of promotional campaigns conducted by AtliQ Mart during Diwali 2023 and Sankranti 2024. By leveraging data analytics, we seek to gain insights into the effectiveness of these campaigns and provide recommendations for optimizing future marketing strategies.
 
-Data Sources
+# Data Sources
 The analysis is based on data obtained from AtliQ Mart's internal databases. The main datasets used include fact_events, dim_products, dim_stores, and dim_campaign. These datasets contain information about product sales, store locations, promotional events, and campaign revenues.
 
-Project Overview:
+# Project Overview:
 Analyzed data from AtliQ Mart's internal databases.
 Performed SQL queries to fulfill five business requests.
 Insights are intended to inform future promotional strategies and resource allocation.
@@ -23,13 +23,13 @@ Incremental sold quantity and revenue percentage during the Diwali campaign.
 Top 5 products ranked by incremental revenue percentage.
 These insights can help AtliQ Mart make informed decisions for future promotional activities, optimize resource allocation, and improve overall sales performance.
 
-Conclusion
+# Conclusion
 Overall, the analysis provides valuable insights into the performance of promotional campaigns conducted by AtliQ Mart during Diwali 2023 and Sankranti 2024. By leveraging data analytics, AtliQ Mart can enhance its marketing strategies, attract more customers, and drive higher sales during festive seasons.
 
-Additional Insights
+# Additional Insights
 In addition to the main business requests, the following recommended insights were explored during the analysis:
 
-Store Performance Analysis
+# Store Performance Analysis
 Top 10 Stores by Incremental Revenue (IR): Identify the top-performing stores in terms of incremental revenue generated from promotions.
 Bottom 10 Stores by Incremental Sold Units (ISU): Identify the stores with the lowest performance in terms of incremental sold units during the promotional period.
 City-wise Store Performance: Analyze how store performance varies by city and identify any common characteristics among top-performing stores.
